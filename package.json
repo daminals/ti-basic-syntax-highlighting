@@ -13,7 +13,7 @@
         "languages": [{
             "id": "tibasic",
             "aliases": ["TI-Basic", "tibasic"],
-            "extensions": [".8XP",".8xp",".8XP.txt",".8XZ",".8xz"],
+            "extensions": [".8XP",".8xp",".8XP.txt",".8XZ",".8xz",".8xi",".8xg",".8ci"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
